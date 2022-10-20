@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/m10ArraysLists/m10ArraysLists.iml" filepath="$PROJECT_DIR$/m10ArraysLists/m10ArraysLists.iml" />
+      <module fileurl="file://$PROJECT_DIR$/m12ReversingAnArrayInPlace/m12ReversingAnArrayInPlace.iml" filepath="$PROJECT_DIR$/m12ReversingAnArrayInPlace/m12ReversingAnArrayInPlace.iml" />
+      <module fileurl="file://$PROJECT_DIR$/m9ImplementingArrays/m9ImplementingArrays.iml" filepath="$PROJECT_DIR$/m9ImplementingArrays/m9ImplementingArrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/udemyJavaAlgoAndDS.iml" filepath="$PROJECT_DIR$/udemyJavaAlgoAndDS.iml" />
+    </modules>
+  </component>
+</project>
